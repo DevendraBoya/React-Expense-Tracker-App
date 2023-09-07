@@ -11,8 +11,6 @@ https://github.com/DevendraBoya/React-Expense-Tracker-App/assets/16133919/d5f3ba
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,3 +36,20 @@ To set up the project locally, follow these steps:
 
    ```sh
    gh repo clone DevendraBoya/React-Expense-Tracker-App
+2. Navigate to the project directory:
+
+cd react-expense-tracker
+
+3. install the project dependencies:
+
+npm install
+
+### Usage
+
+Start the development server:
+
+npm start
+
+Open your browser and go to http://localhost:3000 to access the application.
+
+Use the application to add, manage, and visualize your income and expenses.
