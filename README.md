@@ -42,14 +42,14 @@ cd react-expense-tracker
 
 3. install the project dependencies:
 
-npm install
+### `npm install`
 
 ### Usage
 
 Start the development server:
 
-npm start
+### `npm start`
 
-Open your browser and go to http://localhost:3000 to access the application.
+Open your browser and go to **http://localhost:3000** to access the application.
 
 Use the application to add, manage, and visualize your income and expenses.
