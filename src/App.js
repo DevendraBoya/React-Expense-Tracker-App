@@ -35,7 +35,7 @@ function App() {
     setSelectedYear(filteredYear);
   }
   const addExpenseHandler = (expenseData) => {
-    setExpenses([expenseData, ...EXPENSES ]);
+    setExpenses([expenseData, ...expenses ]);
   }
   const filteredContent = expenses.filter((expense)=> {
     return expense.expenseDate.getFullYear().toString() === selectedYear;
